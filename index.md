@@ -1,5 +1,8 @@
 # Welcome to my site
 [Page 2](page2.md)
+
+[Page 3](page3.md)
+
 ## Section 1 - _Megaptera_ _novaeangliae_
   The humpback is a very nice whale.
   Also known as:
