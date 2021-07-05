@@ -6,6 +6,7 @@
 ```.bash
   grep some stuff.txt
 ```
+
 colname1|colname2
 ---|---
 row1|cell2
